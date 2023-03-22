@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "arcgis-runtime-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/esri/arcgis-runtime-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bd6af8bbc13b9762ef9b81c65a1ab80a81eb2787"
+      }
+    },
+    {
+      "identity" : "carbode-barcode-scanner-for-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI",
+      "state" : {
+        "revision" : "6167624ec47174900434f1c03dfa0b2dd5d19c0d",
+        "version" : "2.2.3"
+      }
+    },
+    {
+      "identity" : "codescanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/CodeScanner",
+      "state" : {
+        "branch" : "main",
+        "revision" : "81ae7c3cc1aeb828bcee4fc7af2bb4878a5ac17a"
+      }
+    }
+  ],
+  "version" : 2
+}
