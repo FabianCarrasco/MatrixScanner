@@ -10,8 +10,6 @@ The way this application works is that it will land on a page that looks like th
 
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2983.PNG?raw=true" height=600/>
 
-<img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2984.PNG?raw=true" height=600/>
-
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2985.PNG?raw=true" height=600/>
 
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2986.PNG?raw=true" height=600/>
@@ -33,5 +31,7 @@ The way this application works is that it will land on a page that looks like th
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2994.PNG?raw=true" height=600/>
 
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2995.PNG?raw=true" height=600/>
+
+<img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2984.PNG?raw=true" height=600/>
 
 <img src="https://github.com/FabianCarrasco/MatrixScanner/blob/dummy/Images/IMG_2996.jpg?raw=true" height=600/>
